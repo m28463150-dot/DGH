@@ -1,0 +1,6 @@
+{
+  "name": "FlashKalpe",
+  "description": "Portefeuille et cartes de paiement VIP pour l'Afrique de l'Ouest (FCFA, UEMOA, Wave, Senelec Woyofal, Tontines)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
